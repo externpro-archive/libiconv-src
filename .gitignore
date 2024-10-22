@@ -544,6 +544,11 @@ autom4te.cache/
 
 # ---------- "make all check" gets you here ----------
 
+# externpro
+.env
+_bld*/
+docker-compose.override.yml
+
 # Patterns for all subdirectories: all kinds of automatic backup files.
 *.orig
 *.rej
